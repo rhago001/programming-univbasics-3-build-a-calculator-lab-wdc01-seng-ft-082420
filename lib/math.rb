@@ -18,7 +18,8 @@ div = num1/num2
 puts div
 div
 end
-division(50),(2)
+division(50)(2)
+
 
 def multiplication(num1, num2)
 
