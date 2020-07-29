@@ -25,6 +25,7 @@ def multiplication(num1, num2)
 
 multi = num1*num2
 puts multi
+multi
 end
 multiplication (4), (30)
 
