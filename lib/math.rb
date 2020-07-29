@@ -23,7 +23,10 @@ division(50, 2)
 
 def multiplication(num1, num2)
 
+multi = num1*num2
+puts multi
 end
+multiplication ()
 
 def modulo(num1, num2)
 
