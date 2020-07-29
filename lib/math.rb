@@ -35,7 +35,7 @@ def modulo(num1, num2)
   remainder
 
 end
-modulo()
+modulo(34, 5)
 
 def square_root(num)
 
