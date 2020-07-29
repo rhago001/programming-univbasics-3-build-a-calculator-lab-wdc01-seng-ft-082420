@@ -16,6 +16,7 @@ subtraction (10),( 5)
 def division(num1, num2)
 div = num1/num2
 puts div
+div
 end
 division(50), (2)
 
