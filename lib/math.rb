@@ -26,7 +26,7 @@ def multiplication(num1, num2)
 multi = num1*num2
 puts multi
 end
-multiplication (4, 30)
+multiplication (4), (30)
 
 def modulo(num1, num2)
 
