@@ -7,7 +7,9 @@ end
 addition (5,4)
 
 def subtraction(num1, num2)
-
+sub = num1-num2
+puts sub
+sub
 end
 subtraction (10, 5)
 
